@@ -1,14 +1,17 @@
 
 Project Description
+
 This is a project with a three-level development architecture. It is a backend Java application built using Java 17, Spring Boot 3, and MySQL 8. The application uses REST architectural style and JSON format for the API. 
 
 Technologies
+
 Java 17
 Spring Boot 3
 MySQL 8
 Log4j2
 
 Endpoints
+
 http://localhost:8080/users - POST endpoint for adding a user with fields for firstname, lastname, patronymic, Email, and Role.
 Example json for a request to create a user :
 
@@ -21,6 +24,7 @@ Example json for a request to create a user :
 }
 
 mapping roles:
+
 1 : Administrator;
 2 : Sale User;
 3 : Customer User;
