@@ -5,9 +5,9 @@ This is a project with a three-level development architecture. It is a backend J
 
 Technologies
 
-Java 17
-Spring Boot 3
-MySQL 8
+Java 17,
+Spring Boot 3,
+MySQL 8,
 Log4j2
 
 Endpoints
