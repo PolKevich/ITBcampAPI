@@ -2,7 +2,9 @@ package com.PolKevich.ITBcampAPI.model;
 
 
 import jakarta.persistence.*;
-import lombok.*;
+import lombok.Data;
+import lombok.EqualsAndHashCode;
+import lombok.ToString;
 
 @Entity
 @Table(name = "role")
