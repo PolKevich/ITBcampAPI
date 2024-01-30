@@ -11,19 +11,21 @@
 
     <groupId>com.PolKevich.ITBcampAPI</groupId>
     <artifactId>restApp</artifactId>
+
     <dependencies>
+
         <dependency>
             <groupId>com.PolKevich.ITBcampAPI</groupId>
             <artifactId>dataApp</artifactId>
             <version>0.0.1-SNAPSHOT</version>
-            <scope>compile</scope>
         </dependency>
+
         <dependency>
             <groupId>com.PolKevich.ITBcampAPI</groupId>
             <artifactId>serviceApp</artifactId>
-            <version>1.0-SNAPSHOT</version>
-            <scope>compile</scope>
+            <version>0.0.1-SNAPSHOT</version>
         </dependency>
+
     </dependencies>
 
     <properties>
